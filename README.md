@@ -1,4 +1,4 @@
-# Team 8 Project: Enhanced Chef GPT Scripts
+# Team 8 Project: Enhanced Chef GPT Scripts 🎱
 
 ## Team Members
 - zGWyGM @jeytuan
