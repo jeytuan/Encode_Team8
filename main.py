@@ -15,7 +15,7 @@ def main():
     # Map of script names or identifiers to their paths
     scripts = {
         "zGWyGM_jeytuan": "zGWyGM_jeytuan/speedboi.py",
-        "q4IJUj_ppjd": "q4IJUj_ppjd/hipHopChefGPT",
+        "q4IJUj_ppjd": "q4IJUj_ppjd/hipHopChefGPT.py",
         # Add other scripts here following the same pattern
         # "team_member": "directory/script.py"
     }
