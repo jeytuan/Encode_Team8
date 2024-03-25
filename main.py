@@ -16,6 +16,7 @@ def main():
     scripts = {
         "zGWyGM_jeytuan": "zGWyGM_jeytuan/speedboi.py",
         "q4IJUj_ppjd": "q4IJUj_ppjd/hipHopChefGPT.py",
+        "DPY2vn_tben140": "DPY2vn_tben140/gordon.py",
         # Add other scripts here following the same pattern
         # "team_member": "directory/script.py"
     }
