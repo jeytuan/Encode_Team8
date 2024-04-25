@@ -2,6 +2,7 @@
 
 ## Team Members
 - zGWyGM @jeytuan
+- wIvnEi @dancikmad
 - q4IJUj @ppjd📍
 - QernhA @Seliana
 - 0Fvj3J @Adela7
