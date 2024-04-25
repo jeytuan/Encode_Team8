@@ -23,19 +23,19 @@ The character 'Jeytuan', a pivotal figure in the Netsoul universe, was conceptua
 
 - **Description:** Jeytuan in his 'common' form appears as a university professor, dressed in a tracksuit with retro synth style influences. This everyday appearance incorporates subtle hints of his Light Bender identity, blending into the casual setting while hinting at deeper lore elements.
 - **Visual Style:** The tracksuit integrates elements reminiscent of his ninja and paladin forms, ensuring the character remains vibrant and relatable within the fantasy cyber universe of Netsoul.
-- **Asset Path:** ![Jeytuan Common](/assets/jeytuan_common.png)
+- **Asset Path:** ![Jeytuan Common](assets/jeytuan_common.png)
 
 ### Uncommon Rarity - Jeytuan the Cyber Paladin
 
 - **Description:** In the 'uncommon' rarity, Jeytuan is envisioned as a cyber paladin with ninja-like agility, showcasing his special power of light bending. The character combines cyberpunk elements with traditional paladin aesthetics to create a dynamic and heroic persona.
 - **Visual Style:** This representation is suitable for a modern, high-action video game, portraying strength and agility.
-- **Asset Path:** ![Jeytuan Uncommon](/assets/jeytuan_uncommon.png)
+- **Asset Path:** ![Jeytuan Uncommon](assets/jeytuan_uncommon.png)
 
 ### Epic Rarity - Jeytuan the Light Bender
 
 - **Description:** For the 'epic' rarity level, Jeytuan assumes his paladin tank form. This version features heavier armor with a blend of futuristic and celestial elements, depicting him as a formidable and heroic figure.
 - **Visual Style:** The majestic and ornate armor emphasizes high-tech qualities, with a pose that showcases his full glory, making him appear powerful and awe-inspiring in the fantasy cyber universe.
-- **Asset Path:** ![Jeytuan Epic](/assets/jeytuan_epic.png)
+- **Asset Path:** ![Jeytuan Epic](assets/jeytuan_epic.png)
 
 ## Progression with Sprite Sheet Poses
 
@@ -45,7 +45,8 @@ As part of our ongoing efforts to enrich the visual experience in Netsoul, we ha
 
 - **Description:** Extending on the previously established art style, we've developed various animation designs for 'Jeytuan'. These designs capture a range of dynamic actions including attacking, defending, and utilizing his special light bending abilities.
 - **Visual Impact:** Each pose is crafted to be dynamic and expressive, highlighting Jeytuan's abilities as a cyber paladin with ninja-like agility and strength. The consistent art style maintains the visual coherence of the character, emphasizing motion and energy in each frame.
-- **Asset Path:** ![Jeytuan Attack Poses](/assets/jeytuan_attack_poses.png)
+- **Asset Path:** ![Jeytuan Attack Poses](assets/jeytuan_attack_poses.png)
+
 
 ### Enhancements in Sprite Sheet Consistency
 
@@ -57,19 +58,19 @@ tben140's work has been instrumental in developing techniques that improve the c
 
 - **Lofi Dark Wizard:**
   - **Description:** This sprite sheet features the Lofi Dark Wizard in various poses, tailored for spell-casting animations and idle movements.
-  - **Asset Path:** ![Lofi Dark Wizard Sprite Sheet](/assets/lofiDark_Wizard_spriteSheet.png)
+  - **Asset Path:** ![Lofi Dark Wizard Sprite Sheet](assets/lofiDark_Wizard_spriteSheet.png)
 
 - **Steampunk Inventor:**
   - **Description:** Capturing the essence of innovation and mechanics, the Steampunk Inventor sprite sheet includes poses for inventing and combat scenarios.
-  - **Asset Path:** ![Steampunk Inventor Sprite Sheet](/assets/steampunk_inventor_spriteSheet.png)
+  - **Asset Path:** ![Steampunk Inventor Sprite Sheet](assets/steampunk_inventor_spriteSheet.png)
 
 - **Metal Knight:**
   - **Description:** Designed for combat and defense animations, the Metal Knight sprite sheet displays a variety of armored poses.
-  - **Asset Path:** ![Metal Knight Sprite Sheet](/assets/metalKnight_spriteSheet.png)
+  - **Asset Path:** ![Metal Knight Sprite Sheet](assets/metalKnight_spriteSheet.png)
 
 - **Elven Archer:**
   - **Description:** Showcasing agility and precision, the Elven Archer sprite sheet is perfect for depicting ranged attacks and evasive maneuvers.
-  - **Asset Path:** ![Elven Archer Sprite Sheet](/assets/elvenArcher.png)
+  - **Asset Path:** ![Elven Archer Sprite Sheet](assets/elvenArcher.png)
 
 ## Conclusion
 
