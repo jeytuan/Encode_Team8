@@ -54,7 +54,8 @@ To further support the animation needs of our 2D game, we have made significant 
 
 #### Key Contributions by tben140
 
-tben140's work has been instrumental in developing techniques that improve the control and consistency of sprite generation, critical for producing usable game animations. Here are some of the standout sprite sheets created under his guidance:
+tben140's work has been instrumental in developing techniques that improve the control and consistency of sprite generation, critical for producing usable game animations. Experiments with Dall-e 3 and Stable Diffusion 3 have been crucial in evolving our sprite sheet generation process. By leveraging these AI tools, alongside techniques such as ControlNet and OpenPose, tben140 tackled the complex task of creating consistent, multi-action spritesheets. While challenges in maintaining style and action clarity arose, an approach using skeletal tracking proposed a promising solution, albeit one that required further refinement. This work not only enhanced our current project but also laid the foundation for automating sprite creation, positioning us to potentially revolutionize asset generation for game development.
+ Here are some of the standout sprite sheets created under his guidance:
 
 - **Lofi Dark Wizard:**
   - **Description:** This sprite sheet features the Lofi Dark Wizard in various poses, tailored for spell-casting animations and idle movements.
